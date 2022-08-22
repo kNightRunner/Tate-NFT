@@ -18,9 +18,10 @@ ii) Click on **transact** button.
 
 
 iii) Confirm on MetaMask pop-up window.
-
-### **NFT HOSTED by PINATA # NFT-Tate Contract Deployment**
+**NFT HOSTED by PINATA **
 ![Etherscan](images/nfttate.jpg)
+### ** NFT-Tate Contract Deployment**
+
 
 
 ---
