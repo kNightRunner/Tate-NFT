@@ -10,16 +10,19 @@ Union won the classic of the city of Santa Fe and we celebrate with this NFT
 ### **Contract Deployment on VSC**
 Contract verified and deployed on Rinkeby Testnet
 
+**NFT HOSTED by PINATA **
+![Etherscan](images/nfttate.jpg)
+
 **Step 1. Deploy  Deployer Contract**
-``
+
+
 i) Enter the following information at **DEPLOY**:
 ```
 ii) Click on **transact** button. 
 
 
 iii) Confirm on MetaMask pop-up window.
-**NFT HOSTED by PINATA **
-![Etherscan](images/nfttate.jpg)
+
 ### ** NFT-Tate Contract Deployment**
 
 
